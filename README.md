@@ -4,3 +4,4 @@ Simply curses program that provides write buffer information, oriented for use d
 ## Known issues
 * Counter of transfered data relies on change in buffer which seems to miss something like 20% of the actual transfer.
 * Unused space not always explicitly blanked, so sometimes unnecessary characters linger.
+* Throws ZeroDivisionError if started when buffer is empty.
