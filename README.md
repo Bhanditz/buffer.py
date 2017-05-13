@@ -1,5 +1,5 @@
 # buffer.py
-Simply curses program that provides write buffer information, oriented for use during large transfers.
+Simple curses program that provides write buffer information, oriented for use during large transfers.
 
 ## Preview
 Roughly 4 seconds into this video, I begin a large transfer.
